@@ -131,7 +131,6 @@ The final result is an application that meets network monitoring needs while rem
 
 ## Snapshots
 ![1](snapshots/1.png "")
-![2](snapshots/2.png "")
 ![3](snapshots/3.png "")
 ![4](snapshots/4.png "")
 ![5](snapshots/5.png "")
